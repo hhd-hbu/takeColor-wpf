@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTakeColor", "ZTakeColor\ZTakeColor.csproj", "{0A7057A4-951E-41A1-9A18-F2E59D5B7ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7057A4-951E-41A1-9A18-F2E59D5B7ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7057A4-951E-41A1-9A18-F2E59D5B7ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7057A4-951E-41A1-9A18-F2E59D5B7ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7057A4-951E-41A1-9A18-F2E59D5B7ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B265050-04BF-4A61-895D-CCCC9D4D30C0}
+	EndGlobalSection
+EndGlobal

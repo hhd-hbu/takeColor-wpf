@@ -1,0 +1,4 @@
+SetProcessDpiAwareness
+GetCursorPos
+GetDC
+GetPixel
